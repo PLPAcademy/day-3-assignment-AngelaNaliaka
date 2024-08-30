@@ -10,7 +10,6 @@ B) Download the Dart SDK
 2. Which command verifies the Dart installation on macOS?
 D) dart --version
 
-
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 C) Run Flutter Doctor
 
@@ -23,7 +22,6 @@ What is the first step to install Python on a Windows system?
 B) Download Python from the official website
 
 Which option should you ensure is checked during Python installation on Windows?
-
 C) Add Python to PATH
 
 How do you verify Python installation on any system?
